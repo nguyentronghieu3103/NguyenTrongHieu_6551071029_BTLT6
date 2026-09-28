@@ -1,0 +1,17 @@
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\bin\Debug\net10.0-windows\Bai1.exe
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\bin\Debug\net10.0-windows\Bai1.deps.json
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\bin\Debug\net10.0-windows\Bai1.runtimeconfig.json
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\bin\Debug\net10.0-windows\Bai1.dll
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\bin\Debug\net10.0-windows\Bai1.pdb
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\obj\Debug\net10.0-windows\Bai1.FormDangKy.resources
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\obj\Debug\net10.0-windows\Bai1.csproj.GenerateResource.cache
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\obj\Debug\net10.0-windows\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\obj\Debug\net10.0-windows\Bai1.AssemblyInfoInputs.cache
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\obj\Debug\net10.0-windows\Bai1.AssemblyInfo.cs
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\obj\Debug\net10.0-windows\Bai1.csproj.CoreCompileInputs.cache
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\obj\Debug\net10.0-windows\Bai1.dll
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\obj\Debug\net10.0-windows\refint\Bai1.dll
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\obj\Debug\net10.0-windows\Bai1.pdb
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\obj\Debug\net10.0-windows\Bai1.genruntimeconfig.cache
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\obj\Debug\net10.0-windows\ref\Bai1.dll
+D:\CLASS\lập trình trực quan\lý thuyết buổi 6\Bai1\obj\Debug\net10.0-windows\Bai1.csproj.Up2Date
